@@ -1,0 +1,41 @@
+_repo: Valda-Berattelser-With-Notes-and-Vocabulary_51440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+  editor:
+    agent_name: Mauritzson, Jules
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '36288'
+    url: http://www.gutenberg.org/2009/agents/36288
+description: ''
+gutenberg_issued: '2016-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51440'
+  lccn: '13019037'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish language -- Readers'
+- !lcsh 'Short stories, Swedish'
+- !lcc 'PD'
+- !lcc 'PT'
+- !lcsh 'Swedish fiction'
+- GITenberg
+tableOfContents: Selma Lagerlöf -- Silvergruvan -- Bröllopsmarschen -- Morbror Ruben
+  -- Kejsarens syn -- Ljuslågan -- Vocabulary.
+title: "Valda Berättelser\r\nWith Notes and Vocabulary"
+url: http://www.gutenberg.org/ebooks/51440
